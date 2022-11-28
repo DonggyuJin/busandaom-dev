@@ -24,4 +24,4 @@ npm start
 - AWS Amplify 및 Amazon Route 53 클라우드 서비스를 통해 호스팅됩니다.
 - busandaom 도메인 발급 이후 Amazon Route 53에 호스팅 영역 생성 후, 네임서버 등록된 상태입니다.
 - 클라우드 서비스로 CI/CD 자동화 배포 기능이 사용됩니다.
-- Product를 위한 Repository 입니다.
+- Dev 서버를 위한 Repository 입니다.

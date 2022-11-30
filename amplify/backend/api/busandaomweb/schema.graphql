@@ -1,6 +1,0 @@
-type SearchData @model @auth(rules: [{allow: public}]) {
-  id: ID!
-  searchAddressA: String
-  searchAddressB: String
-}
- 

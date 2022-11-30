@@ -22,7 +22,7 @@ install.cmd
 *.env
 /.vscode
 .github
-/amplify
+amplify
 
 npm-debug.log*
 yarn-debug.log*
